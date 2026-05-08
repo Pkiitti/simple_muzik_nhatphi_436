@@ -5,7 +5,7 @@
 ## GIỚI THIỆU DỰ ÁN
 Simple Muzik là một ứng dụng phát nhạc offline chuyên nghiệp được phát triển trên nền tảng Flutter. Ứng dụng mang đến trải nghiệm nghe nhạc mượt mà, giao diện hiện đại mang phong cách Dark Mode và khả năng quản lý thư viện âm thanh toàn diện ngay trên thiết bị di động.
 
-Demo: https://drive.google.com/file/d/1snfEh2urqW4LA150eqrplt4ghwU6RU8H/view?usp=sharing
+Demo: https://drive.google.com/drive/folders/1fHC9AEpOUWFGhPetvviB5U9yOCxdwLxF?usp=sharing
 ---
 
 ## TÍNH NĂNG NỔI BẬT
